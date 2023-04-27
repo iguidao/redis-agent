@@ -22,7 +22,7 @@ const (
 	AccessKey           = "xxxxx"
 	AccessKeyID         = "xxxxx"
 	EndpointPub         = "xxxxx"
-	RedisManagerUrl     = "https://redis-manager.iguidao.com/redis-manager/codis/v1/analysisrdb"
+	RedisManagerUrl     = "https://redis-manager.iguidao.com/redis-manager/public/v1/analysisrdb"
 	DefalutDisplayCount = 20
 )
 

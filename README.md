@@ -16,6 +16,6 @@ redis的客户端，进行一些信息收集操作
 - 放入系统crontab中，执行redis-agent
 
 ### 联系方式
-mail: xiaohui920@sina.cn
+暂无
 
 
